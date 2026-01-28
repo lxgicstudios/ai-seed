@@ -9,7 +9,7 @@
   "scripts": {
     "build": "tsc"
   },
-  "keywords": ["seed", "database", "prisma", "mock-data", "ai", "cli", "faker"],
+  "keywords": ["ai", "openai", "gpt", "seed", "database", "prisma", "mock-data", "faker", "fixtures", "testing", "developer-tools", "cli", "automation", "typescript", "backend"],
   "license": "MIT",
   "dependencies": {
     "commander": "^12.1.0",
