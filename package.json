@@ -1,7 +1,7 @@
 {
   "name": "ai-seed",
   "version": "1.0.0",
-  "description": "Generate realistic database seed data from your schema using AI",
+  "description": "AI-powered database seeder - realistic test data with GPT",
   "main": "dist/index.js",
   "bin": {
     "ai-seed": "dist/cli.js"
@@ -9,7 +9,22 @@
   "scripts": {
     "build": "tsc"
   },
-  "keywords": ["ai", "openai", "gpt", "seed", "database", "prisma", "mock-data", "faker", "fixtures", "testing", "developer-tools", "cli", "automation", "typescript", "backend"],
+  "keywords": [
+    "ai",
+    "openai",
+    "gpt",
+    "seed",
+    "database",
+    "fake-data",
+    "testing",
+    "developer-tools",
+    "cli",
+    "automation",
+    "typescript",
+    "nodejs",
+    "prisma",
+    "mock"
+  ],
   "license": "MIT",
   "dependencies": {
     "commander": "^12.1.0",
