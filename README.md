@@ -3,6 +3,9 @@
 [![npm version](https://img.shields.io/npm/v/ai-seed.svg)](https://www.npmjs.com/package/ai-seed)
 [![npm downloads](https://img.shields.io/npm/dm/ai-seed.svg)](https://www.npmjs.com/package/ai-seed)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://img.shields.io/github/stars/lxgic-studios/ai-seed)](https://github.com/lxgic-studios/ai-seed/stargazers)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-blue)](https://www.typescriptlang.org/)
+
 
 
 Generate realistic database seed data from your schema. Works with Prisma, SQL, Drizzle, TypeORM, and more.
